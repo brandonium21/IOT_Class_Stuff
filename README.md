@@ -17,3 +17,6 @@ https://www.hivemq.com/blog/mqtt-essentials-part-5-mqtt-topics-best-practices/
 
 ### mqtt publish-subscribe
 https://www.hivemq.com/blog/mqtt-essentials-part2-publish-subscribe/
+
+### PubSubClient library Documentation
+https://pubsubclient.knolleary.net/api.html
