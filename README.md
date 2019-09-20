@@ -20,3 +20,8 @@ https://www.hivemq.com/blog/mqtt-essentials-part2-publish-subscribe/
 
 ### PubSubClient library Documentation
 https://pubsubclient.knolleary.net/api.html
+
+### esp32 boards
+https://dl.espressif.com/dl/package_esp32_index.json
+
+in pref add to end delimted by comma
